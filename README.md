@@ -1,5 +1,5 @@
 # File Downloader Project
-This project is a file downloader application written in C#. It utilizes REST API integration using RestSharp and Metro-Modern UI for the front-end design. The application allows users to input a CSV file path and download files based on the information in each row, applying custom logic as required by the client. Additionally, it incorporates an asynchronous logging framework for efficient and non-blocking logging.
+Made for a client and is a paid task. This project is a file downloader application written in C#. It utilizes REST API integration using RestSharp and Metro-Modern UI for the front-end design. The application allows users to input a CSV file path and download files based on the information in each row, applying custom logic as required by the client. Additionally, it incorporates an asynchronous logging framework for efficient and non-blocking logging.
 
 ## Features
 ### REST API Integration: 
