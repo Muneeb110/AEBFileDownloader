@@ -49,9 +49,6 @@ Test your changes thoroughly.
 Create a pull request, providing a detailed description of your changes.
 Please adhere to the existing coding style, include appropriate unit tests, and ensure that your changes do not break any existing functionality.
 
-## License
-  This project is licensed under the <b>MIT License</b>. Feel free to use, modify, and distribute it as per the license terms.
-
 ## Acknowledgements
   This project was developed by <b><u>Muneeb Ur Rehman</u></b>. Special thanks to the open-source community for their contributions and support.
 
